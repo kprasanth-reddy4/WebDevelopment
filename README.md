@@ -8,3 +8,15 @@ git commands
 for login email and user name
 git config --global user.email "email"
 git config --global user.name "user-name"
+
+semantic elemnets
+ -  header
+ - aside
+ - article
+ - footer
+ - section
+Inline elements
+ - span
+ - form elements
+ - input elements
+ - 
